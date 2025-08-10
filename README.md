@@ -61,8 +61,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Chandraveersingh1717&icon=5&color=0)](https://visitcount.itsvg.in)
 <br>
-
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=FFB5A7&center=true&vCenter=true&background=00000000&lines=🌸+Thanks+for+visiting!;🌼+Wishing+you+a+lovely+day!;💖+Stay+curious+and+creative!" alt="Typing SVG" />
@@ -70,8 +68,9 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB5A7,100:FCD5CE&height=120&section=footer&text=🌷+Bye+Bye+🌷&fontSize=28&fontColor=000000" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB5A7,100:FCD5CE&height=120&section=footer&text=🌷+Welcome+Back+🌷&fontSize=28&fontColor=000000" alt="Footer Wave" />
 </p>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
