@@ -2,23 +2,23 @@
 
 <div align=center>     
       
-![Profile Views](https://komarev.com/ghpvc/?username=namankoolwal&color=219ebc&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=chandraveersingh1717&color=219ebc&style=flat)
 <br><br>
 </div>
 
 
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=F7EEE5&center=true&width=535&lines=Hi+%F0%9F%91%8B%2C+I'm+Naman+Khandelwal!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=F7EEE5&center=true&width=535&lines=Hi+%F0%9F%91%8B%2C+I'm+chandraveer+singh!" alt="Typing SVG" /></a>
      
 </div>
 
-<h3 align="center">A passionate Full-Stack Developer and Life-Long Learner based in India</h3>
+<h3 align="center">A passionate Full-Stack Web Developer and Web 3 Developer</h3>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br>
 
-<img align="right" alt="Coding" height="270" width="300" src="https://user-images.githubusercontent.com/99413629/212356179-72d0d750-710a-4077-8c79-34b55d6eb954.gif">
+
 
 
 # 💫Hii 👋 I'm Chandraveer Singh
