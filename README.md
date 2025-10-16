@@ -52,6 +52,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Chandraveersingh1717&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+## 🏆 Hacktoberfest 2025 Badge 
+
+
 [![An image of @chandraveersingh1717's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chandraveersingh1717)](https://holopin.io/@chandraveersingh1717)
 
 ### ✍️ Random Dev Quote
