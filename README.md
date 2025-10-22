@@ -57,9 +57,15 @@
 
 [![An image of @chandraveersingh1717's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chandraveersingh1717)](https://holopin.io/@chandraveersingh1717)
 
-🌱 Hacktoberfest 2025 — Tree planted via [Tree-Nation](https://tree-nation.com/trees/8280155/view?collect)
+### 🌱 Hacktoberfest 2025 — Tree Planted via Tree-Nation
 
-![Tree Certificate](https://tree-nation.com/certificate/dc04bb3f5c287f54)
+I’m proud to have contributed to open source and sustainability through **Hacktoberfest 2025**!  
+A real tree was planted to celebrate my contributions 🌍  
+
+🔗 **View My Tree:** [tree-nation.com/trees/8280155](https://tree-nation.com/trees/8280155/view?collect)  
+📜 **View Certificate:** [tree-nation.com/certificate/dc04bb3f5c287f54](https://tree-nation.com/certificate/dc04bb3f5c287f54)
+
+![Tree Certificate](assets/tree-certificate.png)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
