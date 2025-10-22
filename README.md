@@ -65,7 +65,6 @@ A real tree was planted to celebrate my contributions 🌍
 🔗 **View My Tree:** [tree-nation.com/trees/8280155](https://tree-nation.com/trees/8280155/view?collect)  
 📜 **View Certificate:** [tree-nation.com/certificate/dc04bb3f5c287f54](https://tree-nation.com/certificate/dc04bb3f5c287f54)
 
-![Tree Certificate](assets/tree-certificate.png)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
