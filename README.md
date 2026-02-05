@@ -24,7 +24,7 @@
 # 💫Hii 👋 I'm Chandraveer Singh
 # A Passionate Web Developer || Web3 Developer
 🌐 Portfolio 👉 https://chandraveersingh.vercel.app/  
- Email Me at 👉📧 chandraveersingh6377@gmail.com for projects or anything else 😊😊
+📧 Email Me at 👉📧 chandraveersingh6377@gmail.com for projects or anything else 😊😊
 
 
 🌱 I’m currently working on: Full Stack Web Development & Web3 dApps  <br>🤝 I’m looking to collaborate on: Blockchain, MERN projects, and open-source  <br>💬 I’m looking for help with: Smart contract optimization & deployment  <br>📚 I’m currently learning: Optimization Technique in Web and Web3 <br>⚡ Ask me about: JavaScript, Web Development, Web3 basics  <br>😄 Fun fact: I debug faster with coffee ☕ and lo-fi beats 🎧
