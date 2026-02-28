@@ -23,7 +23,6 @@
 
 # 💫Hii 👋 I'm Chandraveer Singh
 # A Passionate Web Developer || Web3 Developer
-🌐 Portfolio 👉 https://chandraveersingh.vercel.app/  
 📧 Email Me at 👉📧 chandraveersingh6377@gmail.com for projects or anything else 😊😊
 
 
@@ -31,7 +30,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/chandraveer-singh-122a14326) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/chandraveer1717) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chandraveersingh6377@gmail.com) 
+ [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/chandraveer1717) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chandraveersingh6377@gmail.com) 
 
 
 
