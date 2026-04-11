@@ -45,13 +45,12 @@
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Chandraveersingh1717&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Chandraveersingh1717&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandraveersingh1717&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Chandraveersingh1717&theme=radical&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com?user=Chandraveersingh1717&theme=radical)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandraveersingh1717&theme=radical&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Chandraveersingh1717&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
+![](https://github-profile-trophy.vercel.app/?username=Chandraveersingh1717&theme=radical&no-frame=true&margin-w=4&cache_seconds=86400&v=2)
 ## 🏆 Hacktoberfest 2025 Badge 
 
 
