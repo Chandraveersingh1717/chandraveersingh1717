@@ -45,7 +45,6 @@
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Chandraveersingh1717&theme=radical&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com?user=Chandraveersingh1717&theme=radical)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandraveersingh1717&theme=radical&layout=compact)
 
